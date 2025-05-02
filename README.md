@@ -1,7 +1,7 @@
-<h4>Travel Agency Blog</h4>
+<h1>Travel Agency Blog</h1>
 <p>In this project we had to create a mockup travel agency blog post with basic HTML properties.</p>
 <a href="https://marisavertz.github.io/Travel-Agency-Blog/">
-  <img src="https://raw.githubusercontent.com/MarisaVertz/Travel-Agency-Blog/refs/heads/main/TravelAgencyBlog.png" width="300">
+  <img src="https://raw.githubusercontent.com/MarisaVertz/Travel-Agency-Blog/refs/heads/main/TravelAgencyBlog.png" width="500">
 </a>
 <br><br>
 <a href="https://marisavertz.github.io/Travel-Agency-Blog/">
